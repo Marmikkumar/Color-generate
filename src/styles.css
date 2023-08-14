@@ -1,3 +1,19 @@
+body {
+  overflow-x: hidden;
+  padding: 0%;
+  margin: 0%;
+  background-color: lightgreen
+}
+
+.color h1{
+  text-align: center;
+  font-size: 2.5rem;
+  text-decoration: underline;
+  color: red;
+  /* background-color: skyblue; */
+  padding: 2vh;
+}
+
 .generator {
   position: relative;
   top: 20vh;
